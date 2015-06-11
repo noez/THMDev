@@ -1,0 +1,11 @@
+{
+  "name": "ngdj",
+  "version": "1.0.0",
+  "description": "Angular friendly communication between django project",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noe Sanchez",
+  "license": "ISC"
+}
